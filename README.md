@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @umidjondurdiyev
 - 👀 I’m interested in Proggramming
 - 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on you
 - 📫 How to reach me umidjondurdiyev1404@gmail.com
 
 <!---
