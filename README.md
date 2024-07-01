@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umidjondurdiyev
 - 👀 I’m interested in Proggramming
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning KMP
 - 📫 How to reach me umidjondurdiyev1404@gmail.com
 
 <!---
